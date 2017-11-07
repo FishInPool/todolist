@@ -77,9 +77,10 @@ input:focus,textarea:focus{
 	position: relative;
 	display: block;
 	height:1px;
-	width:100%;
+	width:98%;
 	background: #bbb;
-	top:-7px;
+	top:-9px;
+	left:17px;
 }
 .task-content {
 	padding-left:10px;
